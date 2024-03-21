@@ -1,0 +1,20 @@
+{
+  "name": "class03-simple-calculator",
+  "version": "1.0.2",
+  "description": "simple calculator with typescript,node.js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "cal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
