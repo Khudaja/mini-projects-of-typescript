@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Khudaja
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning typescript and nodejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Khudaja/Khudaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository is my journey into the world of TypeScript!  I'm building a collection of mini-projects to experiment with the language's features and solidify my understanding.  Each project tackles a different concept, and the code is well-commented to explain my thought process.  Feel free to browse around, learn from my code, and maybe even get inspired to create your own mini-project!
