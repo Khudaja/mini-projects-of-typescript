@@ -1,5 +1,4 @@
-- This file contains code for a 5-question MCQ program written in TypeScript.
-
+This file contains code for a 5-question MCQ program written in TypeScript.
 Test your knowledge with interactive multiple-choice questions!
 Each question presents answer choices for you to select.
 - check this code on npx mcqs-k
